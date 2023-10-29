@@ -2,6 +2,10 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
+<p align="center">
+  <img width="460" height="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
+</p>
+
 <p align="center"> I am a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.</p>
 
 <br>
