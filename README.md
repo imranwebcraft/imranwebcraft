@@ -1,4 +1,7 @@
-![Masthead](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="200" height="200" alt="Masthead">
+</div>
+
 <h1 align="center">Hi 👋, I'm Imran Hossain Sakil</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
