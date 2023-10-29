@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
 
-I am a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.
+<p align="center"> I am a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.</p>
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
