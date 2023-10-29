@@ -42,6 +42,17 @@
 <a href="https://www.hackerrank.com/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imranwebcraft" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <!-- Language stats -->
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranwebcraft&show_icons=true&locale=en&layout=compact" alt="imranwebcraft" />
+  </p>
+  
+  <!-- GitHub stats -->
+  <p align="center">
+    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranwebcraft&show_icons=true&locale=en" alt="imranwebcraft" />
+  </p>
+</div>
 
 
 <p align="center">
