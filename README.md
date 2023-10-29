@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imran Hossain Sakil</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
-![A passionate full stack developer from Bangladesh](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)
 
-a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.
+
+I am a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
