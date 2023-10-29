@@ -1,31 +1,34 @@
-<h1 align="center">Hi 👋, I'm Imran Hossain Sakil</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
-<br>
-<img align="center" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)">
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranwebcraft&label=Profile%20views&color=0e75b6&style=flat" alt="imranwebcraft" /> </p>
+### Hi there 👋, I'm Imran Hossain Sakil.
+#### A passionate full stack developer from Bangladesh
+![A passionate full stack developer from Bangladesh](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)
+
+a passionate software developer with a love for coding and technology. I'm on a journey to explore the world of software development and create meaningful projects along the way.
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on React Project 
+- 🌱 I’m currently learning TanstactQuery, JWT 
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Next JS 13 
+- 💬 Ask me about Web Development 
+- 📫 How to reach me: imranhossainsakil22@gmail.com 
+- ⚡ Fun fact: I think i am a funny person 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/imranwebcraft)  
 
-- 🔭 I’m currently working on **React project**
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 🌱 I’m currently learning **TanstackQuery, JWT**
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/imranwebcraft)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 💬 Ask me about **React, NodeJS, Express, Git & GitHub**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/imranwebcraft)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **imranhossainsakil22@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/imranwebcraft&show_icons=true)  
 
-- ⚡ Fun fact **I think i am Funny person**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/imranwebcraft)  
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-</p>
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/imranwebcraft)  
 
-<h3 align="left">Languages and Tools:</h3>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/imranwebcraft)  
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imranwebcraft&show_icons=true&locale=en&layout=compact" alt="imranwebcraft" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranwebcraft&show_icons=true&locale=en" alt="imranwebcraft" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranwebcraft&" alt="imranwebcraft" /></p>
+![Profile views](https://gpvc.arturio.dev/https://github.com/imranwebcraft)  
