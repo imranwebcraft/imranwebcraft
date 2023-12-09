@@ -1,14 +1,26 @@
 ![Banner](https://raw.githubusercontent.com/imranwebcraft/imranwebcraft/main/Image/imran2.png)
 
-# About Me
-Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACk DEVELOPER** eager to bring my expertise to your team.Proficient in MongoDB, Express.js, React, and Node.js, I am poised to contribute impactful solutions to your projects.I offer a blend of expertise and innovation. Hiring me means adding a dedicated problem-solver committed to enhancing your projects.
+## About Me
+Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACK DEVELOPER** eager to bring my expertise to your team.Proficient in MongoDB, Express.js, React, and Node.js, I am poised to contribute impactful solutions to your projects.I offer a blend of expertise and innovation. Hiring me means adding a dedicated problem-solver committed to enhancing your projects.
 
-# Languages and Tools
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-<br>
 
-# About Me
+## Overview:
 
+
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imranwebcraft&theme=github-dark&card_width=500)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranwebcraft&theme=github_dark)
+</div>
+
+
+
+## Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,figma,xd,firebase,git,github,materialui,mongodb,nodejs,vite,vscode)](https://skillicons.dev)
+
+## At A Glance:
   - 🔭 I’m currently working on exciting React projects.<br>
   - 🌱 I’m always learning and currently diving into NEXT js<br>
   - 👯 I’m open to collaboration on GitHub, so feel free to reach out!<br>
@@ -16,37 +28,27 @@ Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACk DEVELOPER** eage
   - 💬 Ask me anything about web development and programming.<br>
   - 📫 Reach me at imranhossainsakil22@gmail.com.<br>
   - ⚡ Fun fact: I love to make people smile! 😄
-
-
 <br>
 
-# Connect with me
-<p align="center">
+## Connect with me:
+<p align="left">
 <a href="https://twitter.com/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranwebcraft" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranwebcraft" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/imranit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imranit1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imranwebcraft" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imranwebcraft" height="30" width="40" /></a>
+<a href="https://fb.com/https://[www.facebook.com/imranit1](https://www.facebook.com/imranit1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imranit1" height="30" width="40" /></a>
 </p>
 
 
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranwebcraft&theme=github_dark)
-</div>
-
-<div align="center">
+## My Stats:
+<div align="left">
 
 |![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imranwebcraft&theme=github_dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imranwebcraft&theme=github_dark&utcOffset=8)|
-
 </div>
 
-<p align="center">
+<p align="left">
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> </p>
 
 
-# Conclusion
+## Conclusion:
 I'm always open to collaboration and sharing knowledge with fellow developers. Feel free to reach out to me through email **imranhossainsakil22@gmail.com** :star:
 
 Let's code, learn, and innovate together! 🚀
-
