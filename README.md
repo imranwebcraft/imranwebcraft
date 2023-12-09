@@ -2,6 +2,8 @@
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="100" height="100" alt="Masthead">
 </div>
 
+![Banner](path/to/your/banner.jpg)
+
 <h1 align="center">Hi there, I'm Imran Hossain Sakil</h1>
 <h3 align="center">🚀 Full Stack Developer from Bangladesh 🇧🇩</h3>
 
