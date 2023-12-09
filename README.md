@@ -18,7 +18,7 @@ Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACK DEVELOPER** eage
 
 
 ## Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,figma,xd,firebase,git,github,materialui,mongodb,nodejs,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,figma,xd,firebase,git,github,materialui,mongodb,nodejs,vite,vscode,powershell,postman)](https://skillicons.dev)
 
 ## At A Glance:
   - 🔭 I’m currently working on exciting React projects.<br>
@@ -31,10 +31,12 @@ Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACK DEVELOPER** eage
 <br>
 
 ## Connect with me:
+
 <p align="left">
-<a href="https://twitter.com/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranwebcraft" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imranwebcraft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranwebcraft" height="30" width="40" /></a>
-<a href="https://fb.com/https://[www.facebook.com/imranit1](https://www.facebook.com/imranit1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imranit1" height="30" width="40" /></a>
+<a href="mailto:imranhossainsakil22@gmail.com"><img  src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg " alt="imranwebcraft" height="30" width="30"/></a>
+<a href="https://twitter.com/imranwebcraft" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imranwebcraft" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imranwebcraft" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imranwebcraft" height="30" width="30" /></a>
+<a href="https://www.facebook.com/imranit1" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/imranit1" height="25" width="30" /></a>
 </p>
 
 
