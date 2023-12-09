@@ -42,37 +42,36 @@ Hi there! I'm Imran Hossain Sakil, an accomplished **MERN STACK DEVELOPER** eage
 
 ## Latest Project:
 
-###Tour-Tap
+### Tour-Tap
+
 **Role-based Authentication:** Users can sign up and log in with Firebase authentication.
 **Tour Package Management:** Utilises the react-tab npm package for a clean display of overview, packages, and tour guide information.
 **CRUD Operations:** Implements CRUD operations on the backend.
-**Live link:** https://tour-tap.web.app
-**Frontend:** https://github.com/imranwebcraft/tour-tap-client
-**Backend:** https://github.com/imranwebcraft/tour-tap-server
+[Live Link](https://tour-tap.web.app) 
+[Frontend](https://github.com/imranwebcraft/tour-tap-client) 
+[Backend](https://github.com/imranwebcraft/tour-tap-server) 
 **Technology:** React, TanstackQuery, Framer Motion, React Router Dom, React Hook Form, Axios, Lottie Files, Express, Mongoose, JWT
-
-
-
-###Ride Mate
+### Ride Mate
 
 **User Authentication:** Create an account using email and password, or sign in with Google for seamless access. User sessions are protected with JWT token authentication.
 **Private Routes:** Access to certain parts of the website requires user authentication.
 **Dashboard:** For registered users, the dashboard is your personal command centre. Manage your added services, make edits, or remove them as needed. You can also add new services.
-**Live link:** https://pawsgo-7d6e0.web.app
-**Frontend:** https://github.com/imranwebcraft/RideMate-Client
-**Backend:** https://github.com/imranwebcraft/RideMate-Server
+
+[Live link](https://pawsgo-7d6e0.web.app)
+[Frontend](https://github.com/imranwebcraft/RideMate-Client)
+[Backend](https://github.com/imranwebcraft/RideMate-Server)
 **Technology:** React, Firebase, JWT, Database, Third Party Authentication(Google)
 
 
-###Shoperz
+### Shoperz
 
 **User Authentication:** Users can create their accounts using their email and password. During registration, we automatically update user profiles.
 **Adding Products:** Our website features a private route named "Add Product," where users can add new products effortlessly.
 **Cart:** A dedicated route called "My Cart" is available for users who have signed in. This section displays all the products added to the user's cart.
-**Live link:** https://shoperz-3e0d8.web.app
 
-**Frontend:** https://github.com/imranwebcraft/Shoperz-Client
-**Backend:** https://github.com/imranwebcraft/Shoperz-Server
+[Live link](https://shoperz-3e0d8.web.app)
+[Frontend](https://github.com/imranwebcraft/Shoperz-Client)
+[Backend](https://github.com/imranwebcraft/Shoperz-Server)
 **Technology:** React, Firebase, JWT, Third Party Authentication(Google), AOS, Dark Mode
 
 
